@@ -17,7 +17,7 @@ int main(void){
 
     num[1] = 1;
     num[2] = 2;
-    num[3] = 3;
+    num[3] = 4;
 
     Add();
     
